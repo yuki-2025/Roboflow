@@ -2,7 +2,7 @@
 ### Roboflow: Annotate Your Dataset and Train Models in One Platform
 ### Computer Vision Workshop for ADSP 32023 IP01: Advanced Computer Vision with Deep Learning
 
-Take a look at this article on using Roboflow: https://yuki-blog1.vercel.app/article/roboflow
+Take a look at this [article](https://yuki-blog1.vercel.app/article/roboflow) on using Roboflow: 
 
 It walks you through:
 
